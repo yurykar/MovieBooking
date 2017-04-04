@@ -1,0 +1,2 @@
+idBooking = 1 title = session3  date = 22.11.2017 16:00  number of booking seats = 3
+idBooking = 2 title = session1  date = 22.11.2017 11:30  number of booking seats = 4
